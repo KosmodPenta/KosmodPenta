@@ -25,4 +25,4 @@
  </div><br>
  <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KosmodPenta&layout=compact)](https://github.com/KosmodPenta/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KosmodPenta)](https://github.com/KosmodPenta/github-readme-stats)
