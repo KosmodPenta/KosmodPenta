@@ -2,7 +2,7 @@
 
   [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-felippe-4809a8176/)  
 
-  ![KosmodPenta](https://github-readme-stats.vercel.app/api?username=KosmodPenta&show_icons=true&theme=highcontrast)
+  ![KosmodPenta](https://github-readme-stats.vercel.app/api?username=KosmodPenta&show_icons=true&theme=radical)
 
 ### Tecnologia Que Eu Estou
 #### Apredendo Atualmente
@@ -25,4 +25,4 @@
  </div><br>
  <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KosmodPenta)](https://github.com/KosmodPenta/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KosmodPenta&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
